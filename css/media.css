@@ -1,0 +1,157 @@
+/*=====Responsive Css Bellow=======*/
+
+
+@media (max-width:575.98px){
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .navbar-toggler:focus{
+        box-shadow:none ;
+    }
+    #navbarSupportedContent {
+        margin-top: 13px;
+    }
+    .nav-item {
+        margin: 0px -25px;
+        background:#212121;
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        line-height: 26px;
+    }
+    .banner-heading {
+        margin-top: 110px;
+        margin-bottom: 50px;
+    }
+    .banner-heading h3 {
+        font-size: 26px;
+        padding-top: 30px;
+        padding-bottom: 0px;
+    }
+    .banner-heading h5 {
+        font-size: 18px;
+        padding-top: 30px;
+    }
+    .banner-text h3 {
+        font-size: 17px;
+        line-height: 26px;
+        padding: 0px 0px;
+    }
+    .banner-text p {
+        line-height: 26px;
+        padding: 0px 0px;
+    }
+    .bnr-btn a {
+        padding: 8px 8px;
+        font-size: 14px;
+        font-weight: 300;
+        margin-left: 12px;
+       
+    }
+    .bnr-btn {
+        margin-top: 40px;
+        margin-left: 0px;
+    }
+    .btn2 {
+        padding: 8px 24px !important;
+    }
+    #about {
+        padding-top: 60px;
+    }
+    .about-left-text h4 {
+        text-align: center;
+    }
+    .about-left-text {
+        margin-top: 10px;
+    }
+    .about-left-text p {
+        line-height: 28px;
+        text-align: center;
+        padding: 0px 31px;
+    }
+    .about-btn {
+        text-align: center;
+    }
+    .about-btn a {
+        padding: 8px 8px;
+    }
+    #servics {
+        padding-top: 60px;
+    }
+    .s-left {
+        left: -4%;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    .s-right {
+        right: 0%;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    .servics-head h4 {
+        font-size: 25px;
+    }
+    .servics-iteam-main h4 {
+       font-size: 19px;
+    }
+    #skills {
+        padding-top: 60px;
+    }
+    .skill-main h4 {
+        font-size: 9px;
+        font-weight: 400;
+        margin-right: 2px;
+    }
+    #counter_part {
+        padding-top: 40px;
+    }
+    .counter-iteam h4 {
+        font-size: 12px;
+    }
+    #protfolio {
+        padding-top: 60px;
+    }
+    .buttons {
+        padding: 5px 18px;
+        margin-left: 0px;
+        margin-bottom: 14px;
+    }
+    #pricing {
+        padding-top: 60px;
+    }
+    .price-list ul li {
+        padding: 8px;
+    }
+    #testomonial {
+        padding-top: 60px;
+    }
+    .pricing-head h4 {
+        font-size: 27px;
+        padding-bottom: 0px;
+    }
+    .t-left {
+        top: 0px;
+        left: 25px;
+    }
+    .t-right {
+        top: 0px;
+        right: 25px;
+    }
+    .texto-icons {
+        margin-bottom: 50px;
+    }
+    .blog-text h4 {
+        font-size: 18px;
+    }
+    .cp-text h4 {
+       
+        font-size: 12px;
+       
+    }
+    .back-top-btn {
+        right: 10px;
+       
+    }
+}
